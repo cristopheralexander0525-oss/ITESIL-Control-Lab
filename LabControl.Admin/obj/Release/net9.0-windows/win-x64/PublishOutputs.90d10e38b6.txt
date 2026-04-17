@@ -1,0 +1,4 @@
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Admin\LabControl.Admin.pdb
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Admin\LatoFont\OFL.txt
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Admin\LabControl.Admin.dll.config
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Admin\LabControl.Admin.exe

@@ -1,0 +1,3 @@
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Agente\LabAgent.pdb
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Agente\LabAgent.dll.config
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Agente\LabAgent.exe

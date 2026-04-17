@@ -1,0 +1,2 @@
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Servidor\LabControl.Api.pdb
+C:\Users\pc\OneDrive\Documentos\Control de pc\Deploy\Servidor\LabControl.Api.exe

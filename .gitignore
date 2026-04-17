@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Ob]j/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de despliegue generados
+Deploy/
+
+# Logs y archivos temporales
+*.log
+debug_log.txt
+
+# Archivos de sistema y backups
+.DS_Store
+*.bak
+*.rar
+*.zip
