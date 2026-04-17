@@ -11,7 +11,19 @@ El proyecto está dividido en tres componentes principales:
 
 ---
 
-## 🛠️ Requisitos Previos
+## ⚡ Ejecución Inmediata (Sin Visual Studio)
+
+Si solo deseas usar el sistema sin lidiar con el código fuente, sigue estos pasos:
+
+1.  **Descarga la última versión** desde la sección de [Releases](https://github.com/cristopheralexander0525-oss/ITESIL-Control-Lab/releases) (Descarga el archivo `Laboratorio_Portable.zip`).
+2.  **Requisito de Red:** Todas las computadoras (Servidor, Admin y Agentes) **DEBEN estar conectadas a la misma red local** (ya sea por cable Ethernet o por la misma señal WiFi).
+3.  **Configuración de IP de un solo clic:**
+    *   En la PC Servidor, abre la carpeta `Deploy` y ejecuta `Configurar_IP_Sistema.ps1`.
+    *   Este script detectará la IP de tu red actual y configurará automáticamente el Administrador y los Agentes para que todo se conecte al instante.
+
+---
+
+## 🛠️ Requisitos e Instalación Avanzada
 
 *   **Runtime/SDK:** [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 *   **Base de Datos:** SQL Server (Express es suficiente).
